@@ -1,6 +1,6 @@
-# 🛍️ Superstore Sales Analysis Dashboard
+# 🛍️ Super Store Sales Analysis Dashboard
 
-This project is a data analysis and visualization of the **Superstore Sales Dataset**, created using **Power BI**. It helps explore business performance through key metrics like sales, profit, customer segments, shipping modes, and more.
+This project is a data analysis and visualization of the **Super Store Sales Dataset**, created using **Power BI**. It helps explore business performance through key metrics like sales, profit, customer segments, shipping modes, and more.
 
 ---
 
@@ -65,7 +65,7 @@ This helps identify:
 
 ## 📁 Dataset
 
-The dataset used is the **Sample Superstore dataset**, commonly used for data analysis practice. It contains details of orders, products, customers, shipping, and more.
+The dataset used is the **Sample Super store dataset**, commonly used for data analysis practice. It contains details of orders, products, customers, shipping, and more.
 
 ---
 
